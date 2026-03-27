@@ -1,2 +1,11 @@
 # Pensamiento-computacional.s3
-Ejercicios y entregas para el curso pc de la s3
+## Sobre este repositorio
+Ejercicos y sketches hechos en clase.
+
+
+## Sketch 1 - Mi primar p5.js:
+Qué intenté hacer:
+Qué aprendí:
+Qué no salió:
+
+[P5.js](https://editor.p5js.org/Tusso/sketches/NYPvrUb5P)
