@@ -3,7 +3,7 @@
 Ejercicos y sketches hechos en clase.
 
 
-## Sketch 1 - Mi primar p5.js:
+## Sketch 1 - Mi primer p5.js:
 Qué intenté hacer:
 Qué aprendí:
 Qué no salió:
