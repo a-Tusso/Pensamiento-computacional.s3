@@ -24,7 +24,6 @@ Esta bitacora tiene el proposito de informar sobre mi proceso a la hora de apren
 [P5.js Solemne](https://editor.p5js.org/Tusso/sketches/NYPvrUb5P)
 
 **Codigo de fondo de la obra**
-
 ![image](Pensamiento_Computacional/Solemne_1/Fondo_codigo.png)
 
 **Definicion de colores añadida el 03/04**
@@ -41,8 +40,6 @@ La obra fue recreada por Myriam Thyes en 2017.
 **Obra de Sophie Taeuber-Arp Original** *"Quatre espacs á cercles rouges roulants" (1932) (Four spaces with red rolling circles)*
 
 ![image](Pensamiento_Computacional/Solemne_1/Sophie_Taeuber_Og.webp)
-
-
 
 **REPLICA de Sophie Taeuber**
 
