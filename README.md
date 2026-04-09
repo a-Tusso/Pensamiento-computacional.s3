@@ -9,6 +9,7 @@ Esta bitacora tiene el proposito de informar sobre mi proceso a la hora de apren
 
 [P5.js](https://editor.p5js.org/Tusso/sketches/pjg0-j0mW)
 
+![image](
 
 ## Solemne n°1 - Replica de Sophie Taeuber:
 
