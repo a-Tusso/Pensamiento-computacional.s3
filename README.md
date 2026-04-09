@@ -25,18 +25,18 @@ Esta bitacora tiene el proposito de informar sobre mi proceso a la hora de apren
 
 **Codigo de fondo de la obra**
 
-![image]
+![image](Pensamiento_Computacional/Solemne_1/Fondo_codigo.png)
 
 **Definicion de colores añadida el 03/04**
 
-![image]
+![image](Pensamiento_Computacional/Solemne_1/Definicion_colores.png)
 
 **Image picker con la obra de colores exactos**
 
 La obra fue recreada por Myriam Thyes en 2017.
 [WikiMyriamThyes](https://commons.wikimedia.org/wiki/File:Taeuber-Arp-quatre-espaces-a-cercles-rouges-roulants-1932-gouache-papier.svg)
 
-![image]
+![image](Pensamiento_Computacional/Solemne_1/Image_picker.png)
 
 **Obra de Sophie Taeuber-Arp Original** *"Quatre espacs á cercles rouges roulants" (1932) (Four spaces with red rolling circles)*
 
