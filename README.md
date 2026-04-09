@@ -9,14 +9,26 @@ Esta bitacora tiene el proposito de informar sobre mi proceso a la hora de apren
 
 [P5.js](https://editor.p5js.org/Tusso/sketches/pjg0-j0mW)
 
-![image](
+![image](Pensamiento_Computacional/Ejercicios_sketches/Clown.png)
 
 ## Solemne n°1 - Replica de Sophie Taeuber:
 
 *(Este encargo lo empece una semana antes de que realmente se diera porque me gusto esto de mini programar y en la ultima clase agregue algunas cosas que aprendimos ese dia)*
 
-- ¿Qué intenté hacer? La verdad yo no se de muchas obras abstractas o modernas porque no son mis preferidas, la encontre en google y me parecio linda y "facil" de realizar. Al principio tuve problemas porque no sabia por donde empezar, pero al saber que los codigos van de arriba a abajo (atras hacia adelante) supe que tenia que empezar del fondo, al empezar de antes no sabia que se podia hacer eso del photoshop y lo hice al azar... pero si resulto :)
-- ¿Qué aprendí? Aprendi a controlar los puntos de las formas (x e y) en las formas que tienen esquinas como el triangulo y el rectangulo, aprendi a ser ordenada con los codigos y separar las cosas y tambien aprendi sobre una pagina que me puede dar el codigo hex de una imagen. c:
-- ¿Qué no salió? Recuerdo que tuve problemas con la posicion de algunas formas, tambien fui aprendiendo que x e y controlaba los puntos, el rectangulo se me hizo algo dificil al principio porque no lo habia practicado mucho, pero le agarre el truco y todo lo demas fue facilito.
+- ¿Como elegi la obra?
+- ¿Como la analice?
+- ¿Como traduje las coordenadas?
+- ¿Que dificultades tuve?
+- ¿Como los resolvi?
 
 [P5.js](https://editor.p5js.org/Tusso/sketches/NYPvrUb5P)
+
+**Obra de Sophie Taeuber Original** *"Quatre espacs á cercles rouges roulants" (1932)*
+
+![image](Pensamiento_Computacional/Solemne_1/Sophie_Taeuber_Og.webp)
+
+
+
+**REPLICA de Sophie Taeuber**
+
+![image](Pensamiento_Computacional/Solemne_1/Sophie_Taeuber_Rep.png)
