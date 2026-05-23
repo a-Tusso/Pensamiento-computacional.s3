@@ -1,7 +1,8 @@
 # **Solemne II**
 
-"AREA"
-Autor: Thedor
+[P5.js Sketch](https://editor.p5js.org/Tusso/sketches/2O3rG3U84)
+
+![image]
 
 ## **Descripción objetiva**
 Este proyecto es una composición visual interactiva creada con p5.js inspirada en el diseño Bauhaus y el arte geométrico abstracto.
@@ -151,7 +152,7 @@ Activa todas las interacciones de tamaño, color, rotación y cambio de forma cu
 Código
 if (d < 120)
 
-Para que funcione, el mouse debe estar suficientemente cerca de la forma.
+Para que funcione, el mouse debe estar cerca de la forma.
 
 
 ## **Sistema input / output**
@@ -169,3 +170,6 @@ Según esa distancia:
 - Figuras interactivas
 - Cambios en tiempo real
 
+## **Diagrama de flujo**
+
+![image]
