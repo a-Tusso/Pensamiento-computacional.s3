@@ -2,7 +2,7 @@
 
 [P5.js Sketch](https://editor.p5js.org/Tusso/sketches/2O3rG3U84)
 
-![image]
+![image](Solemne_II/P5.js.png)
 
 
 ## **Descripción objetiva**
