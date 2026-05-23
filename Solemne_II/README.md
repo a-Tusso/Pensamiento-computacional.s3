@@ -13,29 +13,27 @@ La obra utiliza figuras geométricas simples como cuadrados, círculos y líneas
 - Pequeños círculos
 
 **Colores:**
-Azul
-Celeste
-Naranja
-Beige
-Gris
-Mostaza
+- Azul
+- Celeste
+- Naranja
+- Beige
+- Gris
+- Mostaza
 
-**Inputs**
-MouseX
-MouseY
+**Inputs:**
+- MouseX y MouseY
 
-**Outputs**
-Cambio de figuras
-Cambio de color,
-Vibración,
-Transformación de cuadrados en círculos
+**Outputs:**
+- Cambio de figuras
+- Cambio de color,
+- Vibración,
+- Transformación de cuadrados en círculos
 
 
 ## **Descripción conceptual**
-La idea del proyecto es crear una composición inspirada en la Bauhaus, usando figuras simples y colores planos.
+La idea del proyecto es crear una composición interactiva inspirada en una obra, usando figuras simples y colores planos.
 
 **Referentes visuales, teóricos e históricos**
-
 **Bauhaus: Principal referente visual del proyecto.**
 Escuela de diseño fundada en Alemania en 1919.
 Su estilo se caracteriza por geometría simple, funcionalidad, minimalismo y uso de colores básicos.
@@ -50,6 +48,7 @@ Influyó en:
 
 La obra llamó la atención por el uso de cuadrados y círculos, la estructura geométrica y la organización visual simple pero equilibrada.
 
+image
 
 ## **Proceso**
 Primero que todo busque alguna obra de la Bauhaus porque siento que es lo más fácil de trabajar al ser figuras geométricas, al verla me gusto mucho, se llama “Area v2” por Thedor, tiene tanto cuadrados como círculos y líneas.
