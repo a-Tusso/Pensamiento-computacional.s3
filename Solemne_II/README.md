@@ -173,7 +173,7 @@ Según esa distancia:
 
 ## **Diagrama de flujo**
 
-[P5.js Sketch](https://canva.link/mn412zdwtb6fp17)
+[Diagrama de flujo canva](https://canva.link/mn412zdwtb6fp17)
 
 ![image](Solemne_II/Diagrama_de_flujo_Tusso.png)
 
