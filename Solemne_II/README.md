@@ -49,7 +49,7 @@ Influyó en:
 
 La obra llamó la atención por el uso de cuadrados y círculos, la estructura geométrica y la organización visual simple pero equilibrada.
 
-image
+![image]
 
 ## **Proceso**
 Primero que todo busque alguna obra de la Bauhaus porque siento que es lo más fácil de trabajar al ser figuras geométricas, al verla me gusto mucho, se llama “Area v2” por Thedor, tiene tanto cuadrados como círculos y líneas.
@@ -172,4 +172,7 @@ Según esa distancia:
 
 ## **Diagrama de flujo**
 
+[P5.js Sketch](https://canva.link/mn412zdwtb6fp17)
+
 ![image]
+
