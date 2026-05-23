@@ -175,5 +175,5 @@ Según esa distancia:
 
 [P5.js Sketch](https://canva.link/mn412zdwtb6fp17)
 
-![image]
+![image](Solemne_II/Diagrama_de_flujo_Tusso.png)
 
