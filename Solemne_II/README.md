@@ -12,7 +12,7 @@ La obra utiliza figuras geométricas simples como cuadrados, círculos y líneas
 - Cuadrados de distintos tamaños
 - Pequeños círculos
 
-**Colores**
+**Colores:**
 Azul
 Celeste
 Naranja
