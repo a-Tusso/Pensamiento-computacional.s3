@@ -8,9 +8,9 @@ Este proyecto es una composición visual interactiva creada con p5.js inspirada 
 La obra utiliza figuras geométricas simples como cuadrados, círculos y líneas para construir una composición ordenada y modular. La diferencia es que esta composición no es estática, sino que reacciona constantemente al movimiento del mouse.
 
 #### **¿Qué se ve en pantalla?**
-Líneas negras
-Cuadrados de distintos tamaños
-Pequeños círculos
+- Líneas negras
+- Cuadrados de distintos tamaños
+- Pequeños círculos
 
 **Colores**
 Azul
