@@ -65,17 +65,17 @@ Cuarto, ya teniendo la práctica empecé a buscar como hacer distintos tipos de 
 Hice esta función para organizar mejor el código y poder crear todas las figuras automáticamente usando un for.
 
 Cada figura tiene:
-- posición (x, y)
-- tamaño
-- color
-- forma
+- Posición (x, y)
+- Tamaño
+- Color
+- Forma
 
 #### **dibujarLineas()**
 Esta función dibuja los elementos fijos del proyecto:
 
-líneas verticales
-líneas horizontales
-círculos decorativos
+- Líneas verticales
+- Líneas horizontales
+- Círculos decorativos
 
 #### **dibujarFiguras()**
 Esta función dibuja todas las figuras usando un bucle.
