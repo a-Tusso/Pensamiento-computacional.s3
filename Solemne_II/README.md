@@ -4,6 +4,7 @@
 
 ![image]
 
+
 ## **Descripción objetiva**
 Este proyecto es una composición visual interactiva creada con p5.js inspirada en el diseño Bauhaus y el arte geométrico abstracto.
 La obra utiliza figuras geométricas simples como cuadrados, círculos y líneas para construir una composición ordenada y modular. La diferencia es que esta composición no es estática, sino que reacciona constantemente al movimiento del mouse.
