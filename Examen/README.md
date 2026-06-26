@@ -4,7 +4,7 @@
 Esta bitacora tiene el proposito de mostrar mi proceso en el examen para pensamiento computacional :)
 ## Información del proyecto
 ### Bubble Pop
-[P5.js Sketch]([https://editor.p5js.org/Tusso/sketches/pjg0-j0mW](https://editor.p5js.org/Tusso/sketches/M2_NMPC-b))
+[P5.js]([https://editor.p5js.org/Tusso/sketches/pjg0-j0mW](https://editor.p5js.org/Tusso/sketches/M2_NMPC-b))
 
 ### Por Antonella Tusso
 ### Este código crea un juego inspirado en la solemne N°2, utilizando círculos, vibración aleatoria, mezcla de colores y crecimiento de formas para generar una experiencia interactiva y dinámica.
